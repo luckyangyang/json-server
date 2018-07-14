@@ -24,7 +24,7 @@
 	+ localhost:3000/users/1
 
 - GET 请求指定字段值的数据
-	+ localhost:3000/users?name=李四&name=张三
+	+ localhost:3000/users?name=李四&age=15
 
 - GET 数据分页
 	+ localhost:3000/users?\_page=1&\_limit=2
