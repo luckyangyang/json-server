@@ -38,7 +38,7 @@
 
 - GET 搜索
 	+ localhost:3000/users?q=张三
-	localhost:3000/brands?name_like='+this.searchVal  模糊查询
+	+ localhost:3000/brands?name_like='+this.searchVal  模糊查询
 
 - GET 关联查询
 	+ localhost:3000/companies/1/users
